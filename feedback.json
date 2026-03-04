@@ -1,0 +1,14 @@
+[
+    {
+        "email": "student@gmail.com",
+        "event_id": 2,
+        "rating": 2,
+        "comment": "excellent "
+    },
+    {
+        "email": "student@gmail.com",
+        "event_id": 5,
+        "rating": 3,
+        "comment": "Execellent"
+    }
+]
